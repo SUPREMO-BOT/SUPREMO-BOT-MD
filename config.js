@@ -1,5 +1,5 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Supremo || https://github.com/NeKosmic/ ]
 **/
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -15,14 +15,14 @@ const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51995386439'
-global.PaisPrefix = '51'
+global.OwnerNum = '573154498492'
+global.PaisPrefix = '57'
 global.Prefijo = '.'
-global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //vMD
+global.MyApiKey = 'supremo' //zzz
+global.NombreDelBot = 'EXPR-BOOT' //v2
 global.BotVersion = dPkg.version
-global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
-global.UsLimitesCmd = '20'
+global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UCzRg0RD1GRmTEsmp8-M5u6Q\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://www.tiktok.com/@franciscojvela?_t=8X58ZTPKSxx&_r=1\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
+global.UsLimitesCmd = '999'
 global.MinimoDeUsuarios = '2'
 
 global.owner = [
