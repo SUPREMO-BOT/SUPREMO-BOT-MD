@@ -1,5 +1,5 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Supremo || https://github.com/NeKosmic/ ]
 **/
 import*as e from"fs";let handler=async(a,{conn:n,text:t,participants:r,command:i})=>{if(!t)return a.reply(`*[ ! ] Agrege una razon para la ejecuci\xf3n*
 Ejemplo: 
