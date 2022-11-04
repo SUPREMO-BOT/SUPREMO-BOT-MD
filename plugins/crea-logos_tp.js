@@ -1,17 +1,17 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Supremo || https://github.com/NeKosmic/ ]
 **/
 import t from"axios";import e from"../lib/calendario.js";let split="|",handler=async(l,{conn:r,args:[o],text:i,command:a})=>{if(!o)return l.reply(`*[ ! ] Use el formato correcto!* :
 
 🖼️ ~Para logos con texto continuo~
 [1]  ${Prefijo}logo (efecto) (texto...), _Ejemplo de uso:_
 
-${Prefijo}logo space NeKosmic
+${Prefijo}logo space EXRP-BOOT
 
 🖼️ ~Para logos con texto separados por una linea vertical~
 [2]  ${Prefijo}logo (efecto) (texto1)|(texto2), _Ejemplo de uso:_
 
-${Prefijo}logo Pornhub-Style-Logo NK-|BOT
+${Prefijo}logo Pornhub-Style-Logo EXPR-|BOT
 
 🖌️ Que logo desea crear?, aqui tiene una lista de efectos:
 
