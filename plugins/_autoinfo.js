@@ -1,5 +1,5 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Supremo || https://github.com/NeKosmic/ ]
 **/
 import db from '../lib/database.js'
 
