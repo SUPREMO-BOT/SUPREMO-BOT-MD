@@ -1,5 +1,5 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @Supremo || https://github.com/NeKosmic/ ]
 **/
 import { sticker } from '../lib/sticker.js'
 import uploadFile from '../lib/uploadFile.js'
